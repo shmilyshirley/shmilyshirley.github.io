@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[欢迎来到小贱博客！]]></title>
+    <url>%2F2018%2F11%2F06%2F%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%B0%8F%E8%B4%B1%E5%8D%9A%E5%AE%A2%EF%BC%81%2F</url>
+    <content type="text"><![CDATA[打开新世界的大门这是本人第一次创建个人博客，创建初衷为的是能够记录下一些自己学习、成长过程中的点点滴滴和一些琐碎的烦恼。愿多年以后，再回首，便是无限美好的回忆～ —-共勉～小贱]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[test_newBlog]]></title>
+    <url>%2F2018%2F11%2F03%2Ftest-newBlog%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F11%2F03%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
